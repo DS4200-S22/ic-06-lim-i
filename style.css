@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+}
+
+.circle {
+  fill: blue;
+}
+
+button {
+  margin: 10px;
+}
+
+.gen {
+  font-size: 30px;
+  margin: 10px;
+}
